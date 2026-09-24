@@ -6,7 +6,7 @@ Lab work for the Big Data Processing course.
 
 - Group: gr-02 (GRP2)
 - Simon Gallais - git username: `Urazikk` - simon.gallais@edu.ece.fr
-- Gautier Deplanque - gautier.deplanque@edu.ece.fr
+- Gautier Deplanque - git username: `gautierdpl` - gautier.deplanque@edu.ece.fr
 
 ## Contents
 
