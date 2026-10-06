@@ -1,5 +1,6 @@
 # data downloaded by the notebooks (Project Gutenberg)
 *.txt
+!requirements.txt
 # python / jupyter
 .ipynb_checkpoints/
 __pycache__/
@@ -10,3 +11,7 @@ __pycache__/
 .vscode/
 *.parquet
 taxi_zone_lookup.csv
+# Lab 4: streaming outputs and checkpoints
+lab04-structured-streaming/data/*
+!lab04-structured-streaming/data/.gitkeep
+spark-warehouse/
